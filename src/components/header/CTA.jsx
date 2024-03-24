@@ -1,6 +1,6 @@
 // Resume dwnld component
 import React from 'react';
-import CV from '../../assets/cv.pdf';
+import CV from '../../assets/Ashok Kumar.pdf';
 
 const CTA = () => {
   return (
